@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-lastpass"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-lastpass component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
